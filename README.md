@@ -1,7 +1,7 @@
 # portfolio
 
 
-https://github.com/Kukki967/portfolio.git
+https://github.com/dev-shraddha-jain/portfolio.io
 ``
 
 https://portfolio-kukki967.vercel.app
